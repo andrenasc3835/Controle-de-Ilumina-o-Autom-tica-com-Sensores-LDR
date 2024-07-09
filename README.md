@@ -1,4 +1,5 @@
 Controle de Iluminação Automática com Sensores LDR
+
 Este projeto visa criar um sistema de controle de iluminação automatizado usando sensores de luz (LDR), um relé e um display LCD. O sistema ajusta automaticamente a iluminação com base nos níveis de luz ambiente detectados pelos sensores LDR.
 
 Materiais (parte elétrica):
