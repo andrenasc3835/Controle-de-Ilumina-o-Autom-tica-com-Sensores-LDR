@@ -13,5 +13,8 @@ Materiais (parte elétrica):
 - Jumpers Macho-fêmea
 
 
-https://github.com/andrenasc3835/Controle-de-Ilumina-o-Autom-tica-com-Sensores-LDR/assets/160709788/384a0db8-435c-46f9-bc15-98eddf124061
+
+https://github.com/andrenasc3835/Controle-de-Ilumina-o-Autom-tica-com-Sensores-LDR/assets/160709788/bd7d2e5a-6f3b-4432-91ce-594b8b250d45
+
+
 
