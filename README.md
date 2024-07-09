@@ -11,3 +11,7 @@ Materiais (parte elétrica):
 - Relé 1 canal 
 - Jumpers Macho-macho
 - Jumpers Macho-fêmea
+
+
+https://github.com/andrenasc3835/Controle-de-Ilumina-o-Autom-tica-com-Sensores-LDR/assets/160709788/384a0db8-435c-46f9-bc15-98eddf124061
+
